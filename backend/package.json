@@ -1,0 +1,20 @@
+{
+  "name": "asistenciaqr-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "API beta de AsistenciaQR. Sin BD real: usa repositorio en memoria; Postgres se conecta luego vía DATABASE_URL.",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "engines": {
+    "node": ">= 20"
+  }
+}

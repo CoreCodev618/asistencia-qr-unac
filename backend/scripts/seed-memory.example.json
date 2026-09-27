@@ -1,0 +1,10 @@
+{
+  "_nota": "EJEMPLO. No se carga solo: solo si SEED_PATH apunta a este archivo. Los IDs son ilustrativos.",
+  "salones": [{ "id": "A-101", "nombre": "Pabellón A - Aula 101", "latitud": -12.061, "longitud": -77.049 }],
+  "cursos": [{ "id": "PW2-N1", "nombre": "Programación Web II - Noche 1" }],
+  "horarios": [
+    { "id": "H1", "salonId": "A-101", "cursoId": "PW2-N1", "diaSemana": 2, "horaInicio": "19:00", "horaFin": "22:00" }
+  ],
+  "alumnos": [{ "id": "ALU-001", "codigo": "20260001", "nombres": "Alumna Ejemplo" }],
+  "matriculas": [{ "alumnoId": "ALU-001", "cursoId": "PW2-N1" }]
+}
