@@ -1,14 +1,13 @@
 import { pageTitle } from 'ember-page-title';
-import { LinkTo } from '@ember/routing';
 
 <template>
   {{pageTitle "AsistenciaQR"}}
 
   <header>
-    <nav>
-      <LinkTo @route="registro">Registro</LinkTo>
-      <LinkTo @route="reporte">Reporte</LinkTo>
-    </nav>
+    <div class="marca">
+      <strong>AsistenciaQR</strong>
+      <span class="muted">UNAC · Programación Web II</span>
+    </div>
   </header>
 
   <main>

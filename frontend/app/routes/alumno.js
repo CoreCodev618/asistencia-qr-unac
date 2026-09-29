@@ -1,6 +1,6 @@
 import Route from '@ember/routing/route';
 
-export default class RegistroRoute extends Route {
+export default class AlumnoRoute extends Route {
   queryParams = {
     salon: { refreshModel: true },
   };

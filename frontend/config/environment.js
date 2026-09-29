@@ -17,7 +17,7 @@ module.exports = function (environment) {
     APP: {
       // Base de la API. Se inyecta con API_HOST al compilar.
       // Ej: API_HOST=https://api.midominio.com ember build
-      API_HOST: process.env.API_HOST || 'http://localhost:3000',
+      API_HOST: process.env.API_HOST || '',
     },
   };
 

@@ -26,7 +26,7 @@
     "lint:hbs:fix": "ember-template-lint . --fix",
     "lint:js": "eslint . --cache",
     "lint:js:fix": "eslint . --fix",
-    "start": "vite",
+    "start": "vite --host",
     "test": "vite build --mode development && testem ci --port 0"
   },
   "dependencies": {

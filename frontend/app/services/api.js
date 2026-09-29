@@ -1,8 +1,8 @@
 import Service from '@ember/service';
 import config from 'frontend/config/environment';
 
-// Cliente HTTP de la API. La base sale de config (API_HOST al compilar).
-// Nunca hay URLs ni IDs fijos: todo llega por argumentos.
+/* eslint-disable warp-drive/no-external-request-patterns */
+// La API propia devuelve JSON plano (no JSON:API): fetch directo, sin store.
 export default class ApiService extends Service {
   get host() {
     return config.APP.API_HOST;
@@ -14,20 +14,27 @@ export default class ApiService extends Service {
     return data;
   }
 
-  getSalon(id) {
-    return fetch(`${this.host}/api/salones/${encodeURIComponent(id)}`).then((r) => this.#json(r));
+  salones() {
+    return fetch(`${this.host}/api/salones`).then((r) => this.#json(r));
   }
 
-  registrar({ salonId, codigoAlumno, ubicacion }) {
+  salon(id) {
+    return fetch(`${this.host}/api/salones/${encodeURIComponent(id)}`).then(
+      (r) => this.#json(r),
+    );
+  }
+
+  asistencias(salonId) {
+    return fetch(
+      `${this.host}/api/salones/${encodeURIComponent(salonId)}/asistencias`,
+    ).then((r) => this.#json(r));
+  }
+
+  registrar({ salonId, cursoId, codigoAlumno, ubicacion }) {
     return fetch(`${this.host}/api/asistencias`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ salonId, codigoAlumno, ubicacion }),
+      body: JSON.stringify({ salonId, cursoId, codigoAlumno, ubicacion }),
     }).then((r) => this.#json(r));
-  }
-
-  reporte(cursoId) {
-    const q = new URLSearchParams({ curso_id: cursoId });
-    return fetch(`${this.host}/api/reporte?${q}`).then((r) => this.#json(r));
   }
 }
