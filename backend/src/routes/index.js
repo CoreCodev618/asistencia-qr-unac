@@ -2,7 +2,9 @@ import { Router } from 'express';
 
 export function createSalonesRoutes(controller) {
   const r = Router();
+  r.get('/', controller.listar);
   r.get('/:id', controller.obtener);
+  r.get('/:id/asistencias', controller.asistencias);
   return r;
 }
 

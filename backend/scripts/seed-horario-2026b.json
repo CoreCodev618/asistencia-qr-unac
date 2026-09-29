@@ -1,0 +1,2467 @@
+{
+  "salones": [
+    {
+      "id": "FCA3A07",
+      "nombre": "Aula FCA3A07"
+    },
+    {
+      "id": "FCA4A12",
+      "nombre": "Aula FCA4A12"
+    },
+    {
+      "id": "FCC1A03",
+      "nombre": "Aula FCC1A03"
+    },
+    {
+      "id": "FIIS1A01",
+      "nombre": "Aula FIIS1A01"
+    },
+    {
+      "id": "FIIS1A02",
+      "nombre": "Aula FIIS1A02"
+    },
+    {
+      "id": "FIIS1T01",
+      "nombre": "Aula FIIS1T01"
+    },
+    {
+      "id": "FIIS3A03",
+      "nombre": "Aula FIIS3A03"
+    },
+    {
+      "id": "FIIS3A04",
+      "nombre": "Aula FIIS3A04"
+    },
+    {
+      "id": "FIIS4A05",
+      "nombre": "Aula FIIS4A05"
+    },
+    {
+      "id": "FIIS4A06",
+      "nombre": "Aula FIIS4A06"
+    },
+    {
+      "id": "FIIS5A08",
+      "nombre": "Aula FIIS5A08"
+    },
+    {
+      "id": "FIIS5A09",
+      "nombre": "Aula FIIS5A09"
+    },
+    {
+      "id": "FIIS5A10",
+      "nombre": "Aula FIIS5A10"
+    },
+    {
+      "id": "FIIS5A11",
+      "nombre": "Aula FIIS5A11"
+    },
+    {
+      "id": "FIME11003",
+      "nombre": "Aula FIME11003"
+    },
+    {
+      "id": "FIME1T01",
+      "nombre": "Aula FIME1T01"
+    },
+    {
+      "id": "SL01LA31",
+      "nombre": "Aula SL01LA31"
+    },
+    {
+      "id": "SL01LA41",
+      "nombre": "Aula SL01LA41"
+    },
+    {
+      "id": "SL01LA42",
+      "nombre": "Aula SL01LA42"
+    },
+    {
+      "id": "SL01LA43",
+      "nombre": "Aula SL01LA43"
+    },
+    {
+      "id": "SL01LA44",
+      "nombre": "Aula SL01LA44"
+    },
+    {
+      "id": "SL01LA45",
+      "nombre": "Aula SL01LA45"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "ISEE201",
+      "nombre": "PROGRAMACIÓN ESTRUCTURADA",
+      "codigo": "ISEE201",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE301",
+      "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS I",
+      "codigo": "ISEE301",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE302-2023",
+      "nombre": "BASE DE DATOS I",
+      "codigo": "ISEE302",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE401",
+      "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS II",
+      "codigo": "ISEE401",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE402-2023",
+      "nombre": "BASE DE DATOS II",
+      "codigo": "ISEE402",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE403",
+      "nombre": "CIRCUITOS ELÉCTRICOS Y ELECTRÓNICOS",
+      "codigo": "ISEE403",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE404-2023",
+      "nombre": "TEORÍA DE SISTEMAS",
+      "codigo": "ISEE404",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE405-2023",
+      "nombre": "PROGRAMACIÓN WEB I",
+      "codigo": "ISEE405",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE501-2023",
+      "nombre": "COSTOS Y PRESUPUESTO",
+      "codigo": "ISEE501",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE502",
+      "nombre": "INVESTIGACIÓN DE OPERACIONES",
+      "codigo": "ISEE502",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE503-2023",
+      "nombre": "PROGRAMACIÓN WEB II",
+      "codigo": "ISEE503",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE504-2023",
+      "nombre": "SISTEMAS DIGITALES",
+      "codigo": "ISEE504",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE505-2023",
+      "nombre": "BASE DE DATOS III",
+      "codigo": "ISEE505",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE602",
+      "nombre": "ANÁLISIS DE SISTEMAS DE INFORMACIÓN",
+      "codigo": "ISEE602",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE604-2023",
+      "nombre": "SIMULACIÓN DE SISTEMAS",
+      "codigo": "ISEE604",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE606-2023",
+      "nombre": "MÉTODOS NUMÉRICOS",
+      "codigo": "ISEE606",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE701-2023",
+      "nombre": "DINÁMICA DE SISTEMAS",
+      "codigo": "ISEE701",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE702-2023",
+      "nombre": "SISTEMAS OPERATIVOS",
+      "codigo": "ISEE702",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE703",
+      "nombre": "INGENIERÍA ECONÓMICA Y FINANCIERA",
+      "codigo": "ISEE703",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE704",
+      "nombre": "DISEÑO DE SISTEMAS DE INFORMACIÓN",
+      "codigo": "ISEE704",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE792",
+      "nombre": "TELECOMUNICACIONES Y REDES",
+      "codigo": "ISEE792",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE801-2023",
+      "nombre": "GESTIÓN DEL CONOCIMIENTO",
+      "codigo": "ISEE801",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE802-2023",
+      "nombre": "TESIS I",
+      "codigo": "ISEE802",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE803-2023",
+      "nombre": "SEGURIDAD DE REDES I",
+      "codigo": "ISEE803",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEE805",
+      "nombre": "SISTEMA DE GESTIÓN DE CALIDAD",
+      "codigo": "ISEE805",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE891",
+      "nombre": "TEORÍA DE LENGUAJES Y COMPILADORES",
+      "codigo": "ISEE891",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEE892-2023",
+      "nombre": "SISTEMAS DISTRIBUIDOS",
+      "codigo": "ISEE892",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG101-2026",
+      "nombre": "CÁLCULO I",
+      "codigo": "ISEG101",
+      "plan": "2026",
+      "docente": ""
+    },
+    {
+      "id": "ISEG102-2026",
+      "nombre": "MATEMÁTICA BÁSICA",
+      "codigo": "ISEG102",
+      "plan": "2026",
+      "docente": ""
+    },
+    {
+      "id": "ISEG103-2026",
+      "nombre": "ECONOMÍA DE LA EMPRESA",
+      "codigo": "ISEG103",
+      "plan": "2026",
+      "docente": ""
+    },
+    {
+      "id": "ISEG104",
+      "nombre": "INGLÉS TÉCNICO PARA SISTEMAS",
+      "codigo": "ISEG104",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "ISEG105-2023",
+      "nombre": "ACTIVIDADES CULTURALES",
+      "codigo": "ISEG105",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG105-2026",
+      "nombre": "REDACCIÓN Y COMUNICACIÓN",
+      "codigo": "ISEG105",
+      "plan": "2026",
+      "docente": ""
+    },
+    {
+      "id": "ISEG201-2023",
+      "nombre": "FÍSICA I",
+      "codigo": "ISEG201",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG202-2023",
+      "nombre": "CONTABILIDAD EMPRESARIAL",
+      "codigo": "ISEG202",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG203-2023",
+      "nombre": "CALCULO II",
+      "codigo": "ISEG203",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG204-2023",
+      "nombre": "IDIOMA II",
+      "codigo": "ISEG204",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG301-2023",
+      "nombre": "FÍSICA II",
+      "codigo": "ISEG301",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG302-2023",
+      "nombre": "CALCULO III",
+      "codigo": "ISEG302",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "ISEG304-2023",
+      "nombre": "IDIOMA III",
+      "codigo": "ISEG304",
+      "plan": "2023",
+      "docente": ""
+    },
+    {
+      "id": "PCO91-1997",
+      "nombre": "SISTEMAS DE COMUNICACION",
+      "codigo": "PCO91",
+      "plan": "1997",
+      "docente": ""
+    },
+    {
+      "id": "SEI004-2019*",
+      "nombre": "REALIDAD VIRTUAL",
+      "codigo": "SEI004",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SEI903",
+      "nombre": "APLICACIONES DE NEGOCIOS ELECTRONICOS",
+      "codigo": "SEI903",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "SER004-2019*",
+      "nombre": "PROYECTO DE REDES",
+      "codigo": "SER004",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SES903-2019*",
+      "nombre": "SISTEMAS COMPLEJOS",
+      "codigo": "SES903",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOG409",
+      "nombre": "ETICA PROFESIONAL Y LEGISLA INF.",
+      "codigo": "SOG409",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "SOG410-2019*",
+      "nombre": "IDIOMA IV",
+      "codigo": "SOG410",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOG512-2019*",
+      "nombre": "ECONOMIA",
+      "codigo": "SOG512",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOG513-2019*",
+      "nombre": "IDIOMA V",
+      "codigo": "SOG513",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP018",
+      "nombre": "SISTEMAS BASADOS EN CONOCIMIENTO",
+      "codigo": "SOP018",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "SOP019-2019*",
+      "nombre": "TRABAJO DE INVESTIGACIÓN",
+      "codigo": "SOP019",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP020-2019*",
+      "nombre": "AUDITORIA DE SISTEMAS",
+      "codigo": "SOP020",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP021",
+      "nombre": "SEGURIDAD DE LA INFORMACIÓN",
+      "codigo": "SOP021",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "SOP022-2019*",
+      "nombre": "INTELIGENCIA DE NEGOCIOS",
+      "codigo": "SOP022",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP913-2019*",
+      "nombre": "INGENIERIA DE SOFTWARE",
+      "codigo": "SOP913",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP915",
+      "nombre": "GESTION DE PROCESOS TECNOLOGICOS",
+      "codigo": "SOP915",
+      "plan": "",
+      "docente": ""
+    },
+    {
+      "id": "SOP916-2019*",
+      "nombre": "REDES DE COMUNICACION II",
+      "codigo": "SOP916",
+      "plan": "2019*",
+      "docente": ""
+    },
+    {
+      "id": "SOP917-2019*",
+      "nombre": "PROYECTO DE SISTEMAS",
+      "codigo": "SOP917",
+      "plan": "2019*",
+      "docente": ""
+    }
+  ],
+  "horarios": [
+    {
+      "salonId": "FCA4A12",
+      "diaSemana": 4,
+      "horaInicio": "14:40",
+      "horaFin": "16:20",
+      "tipo": "T",
+      "id": "H1",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "salonId": "FCA4A12",
+      "diaSemana": 4,
+      "horaInicio": "16:20",
+      "horaFin": "18:00",
+      "tipo": "P",
+      "id": "H2",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "salonId": "FCA3A07",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H3",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "salonId": "FCA3A07",
+      "diaSemana": 3,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "P",
+      "id": "H4",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H5",
+      "cursoId": "ISEG101-2026"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 2,
+      "horaInicio": "10:30",
+      "horaFin": "12:10",
+      "tipo": "P",
+      "id": "H6",
+      "cursoId": "ISEG101-2026"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 3,
+      "horaInicio": "12:10",
+      "horaFin": "13:50",
+      "tipo": "T",
+      "id": "H7",
+      "cursoId": "ISEG103-2026"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 3,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "P",
+      "id": "H8",
+      "cursoId": "ISEG103-2026"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 4,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H9",
+      "cursoId": "ISEG104"
+    },
+    {
+      "salonId": "FIIS1A01",
+      "diaSemana": 6,
+      "horaInicio": "08:00",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H10",
+      "cursoId": "ISEG102-2026"
+    },
+    {
+      "salonId": "FIIS1A01",
+      "diaSemana": 6,
+      "horaInicio": "10:30",
+      "horaFin": "12:10",
+      "tipo": "P",
+      "id": "H11",
+      "cursoId": "ISEG102-2026"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 1,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H12",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 1,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H13",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 6,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H14",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 6,
+      "horaInicio": "15:30",
+      "horaFin": "17:10",
+      "tipo": "P",
+      "id": "H15",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "12:10",
+      "tipo": "T",
+      "id": "H16",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 5,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "L",
+      "id": "H17",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "12:10",
+      "tipo": "T",
+      "id": "H18",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 5,
+      "horaInicio": "13:00",
+      "horaFin": "14:40",
+      "tipo": "L",
+      "id": "H19",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "salonId": "FIIS4A06",
+      "diaSemana": 4,
+      "horaInicio": "08:00",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H20",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 4,
+      "horaInicio": "10:30",
+      "horaFin": "12:10",
+      "tipo": "P",
+      "id": "H21",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "P",
+      "id": "H22",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "salonId": "FIIS3A04",
+      "diaSemana": 5,
+      "horaInicio": "13:50",
+      "horaFin": "16:20",
+      "tipo": "T",
+      "id": "H23",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "salonId": "FIIS3A04",
+      "diaSemana": 5,
+      "horaInicio": "16:20",
+      "horaFin": "18:00",
+      "tipo": "P",
+      "id": "H24",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "salonId": "FCC1A03",
+      "diaSemana": 1,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H25",
+      "cursoId": "ISEG202-2023"
+    },
+    {
+      "salonId": "FCC1A03",
+      "diaSemana": 1,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H26",
+      "cursoId": "ISEG202-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 5,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H27",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H28",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 5,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H29",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "salonId": "SL01LA45",
+      "diaSemana": 6,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "L",
+      "id": "H30",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "salonId": "SL01LA45",
+      "diaSemana": 6,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "L",
+      "id": "H31",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 1,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "P",
+      "id": "H32",
+      "cursoId": "ISEG204-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 3,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H33",
+      "cursoId": "ISEG204-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 3,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H34",
+      "cursoId": "ISEG204-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "T",
+      "id": "H35",
+      "cursoId": "ISEE201"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 2,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H36",
+      "cursoId": "ISEE201"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H37",
+      "cursoId": "ISEE201"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 2,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H38",
+      "cursoId": "ISEE201"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "T",
+      "id": "H39",
+      "cursoId": "ISEE302-2023"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 5,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "L",
+      "id": "H40",
+      "cursoId": "ISEE302-2023"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 5,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H41",
+      "cursoId": "ISEE302-2023"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 3,
+      "horaInicio": "08:00",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H42",
+      "cursoId": "ISEG302-2023"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 3,
+      "horaInicio": "10:30",
+      "horaFin": "12:10",
+      "tipo": "P",
+      "id": "H43",
+      "cursoId": "ISEG302-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 6,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H44",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 6,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H45",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "salonId": "SL01LA45",
+      "diaSemana": 6,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H46",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "salonId": "SL01LA45",
+      "diaSemana": 2,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H47",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "salonId": "SL01LA45",
+      "diaSemana": 2,
+      "horaInicio": "13:00",
+      "horaFin": "14:40",
+      "tipo": "L",
+      "id": "H48",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H49",
+      "cursoId": "ISEG304-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 1,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H50",
+      "cursoId": "ISEG304-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 1,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H51",
+      "cursoId": "ISEG304-2023"
+    },
+    {
+      "salonId": "FIME11003",
+      "diaSemana": 4,
+      "horaInicio": "13:00",
+      "horaFin": "14:40",
+      "tipo": "T",
+      "id": "H52",
+      "cursoId": "ISEE301"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 4,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H53",
+      "cursoId": "ISEE301"
+    },
+    {
+      "salonId": "SL01LA31",
+      "diaSemana": 1,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "L",
+      "id": "H54",
+      "cursoId": "ISEE301"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 2,
+      "horaInicio": "14:40",
+      "horaFin": "16:20",
+      "tipo": "T",
+      "id": "H55",
+      "cursoId": "ISEE301"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 2,
+      "horaInicio": "11:20",
+      "horaFin": "14:40",
+      "tipo": "L",
+      "id": "H56",
+      "cursoId": "ISEE301"
+    },
+    {
+      "salonId": "FIIS3A04",
+      "diaSemana": 3,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "T",
+      "id": "H57",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 1,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "L",
+      "id": "H58",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 1,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H59",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 1,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H60",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "salonId": "FIIS1A01",
+      "diaSemana": 4,
+      "horaInicio": "08:50",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H61",
+      "cursoId": "ISEE403"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 4,
+      "horaInicio": "10:30",
+      "horaFin": "13:50",
+      "tipo": "L",
+      "id": "H62",
+      "cursoId": "ISEE403"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H63",
+      "cursoId": "SOG409"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 2,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H64",
+      "cursoId": "SOG409"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 2,
+      "horaInicio": "13:00",
+      "horaFin": "14:40",
+      "tipo": "P",
+      "id": "H65",
+      "cursoId": "SOG410-2019*"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 6,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "T",
+      "id": "H66",
+      "cursoId": "ISEE401"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 6,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "L",
+      "id": "H67",
+      "cursoId": "ISEE401"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 2,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "T",
+      "id": "H68",
+      "cursoId": "ISEE405-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 2,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "L",
+      "id": "H69",
+      "cursoId": "ISEE405-2023"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 3,
+      "horaInicio": "11:20",
+      "horaFin": "14:40",
+      "tipo": "L",
+      "id": "H70",
+      "cursoId": "ISEE405-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 5,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H71",
+      "cursoId": "ISEE404-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "P",
+      "id": "H72",
+      "cursoId": "ISEE404-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 4,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H73",
+      "cursoId": "ISEE505-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 4,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "L",
+      "id": "H74",
+      "cursoId": "ISEE505-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 6,
+      "horaInicio": "18:00",
+      "horaFin": "20:30",
+      "tipo": "L",
+      "id": "H75",
+      "cursoId": "ISEE505-2023"
+    },
+    {
+      "salonId": "FIME1T01",
+      "diaSemana": 1,
+      "horaInicio": "11:20",
+      "horaFin": "13:00",
+      "tipo": "T",
+      "id": "H76",
+      "cursoId": "ISEE501-2023"
+    },
+    {
+      "salonId": "FIME1T01",
+      "diaSemana": 5,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H77",
+      "cursoId": "ISEE501-2023"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 4,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H78",
+      "cursoId": "SOG512-2019*"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 4,
+      "horaInicio": "09:40",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H79",
+      "cursoId": "SOG512-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 5,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H80",
+      "cursoId": "SOG513-2019*"
+    },
+    {
+      "salonId": "FIIS1A01",
+      "diaSemana": 5,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H81",
+      "cursoId": "ISEE502"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 5,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "P",
+      "id": "H82",
+      "cursoId": "ISEE502"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "08:00",
+      "horaFin": "11:20",
+      "tipo": "P",
+      "id": "H83",
+      "cursoId": "ISEE502"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 1,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H84",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 1,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "L",
+      "id": "H85",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 1,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H86",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 1,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "L",
+      "id": "H87",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 2,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H88",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 2,
+      "horaInicio": "15:30",
+      "horaFin": "18:50",
+      "tipo": "P",
+      "id": "H89",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 4,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "T",
+      "id": "H90",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 4,
+      "horaInicio": "09:40",
+      "horaFin": "13:00",
+      "tipo": "P",
+      "id": "H91",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "salonId": "FIIS1A02",
+      "diaSemana": 4,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H92",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 4,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H93",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 2,
+      "horaInicio": "13:50",
+      "horaFin": "14:40",
+      "tipo": "T",
+      "id": "H94",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 2,
+      "horaInicio": "14:40",
+      "horaFin": "18:00",
+      "tipo": "L",
+      "id": "H95",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 1,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H96",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 1,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H97",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "FIIS5A09",
+      "diaSemana": 3,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H98",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 3,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H99",
+      "cursoId": "ISEE602"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 4,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "T",
+      "id": "H100",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 4,
+      "horaInicio": "15:30",
+      "horaFin": "17:10",
+      "tipo": "P",
+      "id": "H101",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "salonId": "FIIS4A06",
+      "diaSemana": 3,
+      "horaInicio": "15:30",
+      "horaFin": "17:10",
+      "tipo": "T",
+      "id": "H102",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "salonId": "FIIS4A06",
+      "diaSemana": 3,
+      "horaInicio": "13:50",
+      "horaFin": "15:30",
+      "tipo": "L",
+      "id": "H103",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "salonId": "FIIS5A11",
+      "diaSemana": 5,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H104",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 5,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H105",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 2,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "T",
+      "id": "H106",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 2,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "L",
+      "id": "H107",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 2,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H108",
+      "cursoId": "ISEE701-2023"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 2,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H109",
+      "cursoId": "ISEE701-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 1,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H110",
+      "cursoId": "ISEE704"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 1,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H111",
+      "cursoId": "ISEE704"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 5,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H112",
+      "cursoId": "ISEE704"
+    },
+    {
+      "salonId": "FIIS1T01",
+      "diaSemana": 5,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H113",
+      "cursoId": "ISEE704"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 2,
+      "horaInicio": "15:30",
+      "horaFin": "17:10",
+      "tipo": "T",
+      "id": "H114",
+      "cursoId": "ISEE703"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 2,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "P",
+      "id": "H115",
+      "cursoId": "ISEE703"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "T",
+      "id": "H116",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 3,
+      "horaInicio": "17:10",
+      "horaFin": "20:30",
+      "tipo": "L",
+      "id": "H117",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 3,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "T",
+      "id": "H118",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 3,
+      "horaInicio": "17:10",
+      "horaFin": "20:30",
+      "tipo": "L",
+      "id": "H119",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 4,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H120",
+      "cursoId": "ISEE792"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 4,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H121",
+      "cursoId": "ISEE792"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 1,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H122",
+      "cursoId": "ISEE792"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 1,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H123",
+      "cursoId": "ISEE792"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 6,
+      "horaInicio": "09:40",
+      "horaFin": "12:10",
+      "tipo": "T",
+      "id": "H124",
+      "cursoId": "ISEE801-2023"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 6,
+      "horaInicio": "08:00",
+      "horaFin": "09:40",
+      "tipo": "L",
+      "id": "H125",
+      "cursoId": "ISEE801-2023"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 5,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H126",
+      "cursoId": "ISEE803-2023"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 5,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H127",
+      "cursoId": "ISEE803-2023"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 2,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H128",
+      "cursoId": "ISEE805"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 2,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H129",
+      "cursoId": "ISEE805"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H130",
+      "cursoId": "ISEE892-2023"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 6,
+      "horaInicio": "12:10",
+      "horaFin": "13:50",
+      "tipo": "P",
+      "id": "H131",
+      "cursoId": "ISEE892-2023"
+    },
+    {
+      "salonId": "FIIS4A05",
+      "diaSemana": 3,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H132",
+      "cursoId": "ISEE891"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 3,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H133",
+      "cursoId": "ISEE891"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 4,
+      "horaInicio": "18:00",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H134",
+      "cursoId": "ISEE802-2023"
+    },
+    {
+      "salonId": "FIIS5A08",
+      "diaSemana": 4,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H135",
+      "cursoId": "ISEE802-2023"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 4,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "T",
+      "id": "H136",
+      "cursoId": "SEI903"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 4,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "L",
+      "id": "H137",
+      "cursoId": "SEI903"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 3,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H138",
+      "cursoId": "SEI903"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 3,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H139",
+      "cursoId": "SEI903"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 6,
+      "horaInicio": "08:50",
+      "horaFin": "10:30",
+      "tipo": "T",
+      "id": "H140",
+      "cursoId": "SOP915"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 6,
+      "horaInicio": "10:30",
+      "horaFin": "12:10",
+      "tipo": "P",
+      "id": "H141",
+      "cursoId": "SOP915"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 2,
+      "horaInicio": "19:40",
+      "horaFin": "22:10",
+      "tipo": "T",
+      "id": "H142",
+      "cursoId": "SOP913-2019*"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 2,
+      "horaInicio": "18:00",
+      "horaFin": "19:40",
+      "tipo": "L",
+      "id": "H143",
+      "cursoId": "SOP913-2019*"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 1,
+      "horaInicio": "18:00",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H144",
+      "cursoId": "SOP917-2019*"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 1,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H145",
+      "cursoId": "SOP917-2019*"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 6,
+      "horaInicio": "15:30",
+      "horaFin": "17:10",
+      "tipo": "T",
+      "id": "H146",
+      "cursoId": "SOP916-2019*"
+    },
+    {
+      "salonId": "SL01LA42",
+      "diaSemana": 6,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "L",
+      "id": "H147",
+      "cursoId": "SOP916-2019*"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 5,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H148",
+      "cursoId": "SES903-2019*"
+    },
+    {
+      "salonId": "SL01LA43",
+      "diaSemana": 5,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H149",
+      "cursoId": "SES903-2019*"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 1,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H150",
+      "cursoId": "PCO91-1997"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 3,
+      "horaInicio": "12:10",
+      "horaFin": "13:50",
+      "tipo": "L",
+      "id": "H151",
+      "cursoId": "PCO91-1997"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 3,
+      "horaInicio": "18:00",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H152",
+      "cursoId": "SOP020-2019*"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 3,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H153",
+      "cursoId": "SOP020-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 5,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H154",
+      "cursoId": "SOP022-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 5,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H155",
+      "cursoId": "SOP022-2019*"
+    },
+    {
+      "salonId": "FIIS5A10",
+      "diaSemana": 3,
+      "horaInicio": "14:40",
+      "horaFin": "16:20",
+      "tipo": "T",
+      "id": "H156",
+      "cursoId": "SER004-2019*"
+    },
+    {
+      "salonId": "SL01LA41",
+      "diaSemana": 3,
+      "horaInicio": "16:20",
+      "horaFin": "18:00",
+      "tipo": "L",
+      "id": "H157",
+      "cursoId": "SER004-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 6,
+      "horaInicio": "14:40",
+      "horaFin": "16:20",
+      "tipo": "T",
+      "id": "H158",
+      "cursoId": "SEI004-2019*"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 6,
+      "horaInicio": "16:20",
+      "horaFin": "18:00",
+      "tipo": "L",
+      "id": "H159",
+      "cursoId": "SEI004-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 1,
+      "horaInicio": "18:50",
+      "horaFin": "20:30",
+      "tipo": "T",
+      "id": "H160",
+      "cursoId": "SOP021"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 1,
+      "horaInicio": "20:30",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H161",
+      "cursoId": "SOP021"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 2,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H162",
+      "cursoId": "SOP018"
+    },
+    {
+      "salonId": "SL01LA44",
+      "diaSemana": 2,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "L",
+      "id": "H163",
+      "cursoId": "SOP018"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 4,
+      "horaInicio": "17:10",
+      "horaFin": "18:50",
+      "tipo": "T",
+      "id": "H164",
+      "cursoId": "SOP019-2019*"
+    },
+    {
+      "salonId": "FIIS3A03",
+      "diaSemana": 4,
+      "horaInicio": "18:50",
+      "horaFin": "22:10",
+      "tipo": "P",
+      "id": "H165",
+      "cursoId": "SOP019-2019*"
+    }
+  ],
+  "_nota": "Programacion Horaria 2026B (UNAC - FIIS) parseada del PDF de Downloads. Fase beta: seed en memoria. Postgres despues (backend/src/db/schema.sql).",
+  "_fuente": "Programacion Horaria-27-09-2026 20_59_27.pdf",
+  "alumnos": [
+    {
+      "id": "ALU-001",
+      "codigo": "20260001",
+      "nombres": "Alumna Ejemplo"
+    },
+    {
+      "id": "ALU-002",
+      "codigo": "20260002",
+      "nombres": "Alumno Ejemplo"
+    }
+  ],
+  "matriculas": [
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE201"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE301"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE302-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE401"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE403"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE404-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE405-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE501-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE502"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE505-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE602"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE701-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE703"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE704"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE792"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE801-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE802-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE803-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE805"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE891"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEE892-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG101-2026"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG102-2026"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG103-2026"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG104"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG202-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG204-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG302-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "ISEG304-2023"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "PCO91-1997"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SEI004-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SEI903"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SER004-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SES903-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOG409"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOG410-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOG512-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOG513-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP018"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP019-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP020-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP021"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP022-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP913-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP915"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP916-2019*"
+    },
+    {
+      "alumnoId": "ALU-001",
+      "cursoId": "SOP917-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE201"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE301"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE302-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE401"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE402-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE403"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE404-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE405-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE501-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE502"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE503-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE504-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE505-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE602"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE604-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE606-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE701-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE702-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE703"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE704"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE792"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE801-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE802-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE803-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE805"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE891"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEE892-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG101-2026"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG102-2026"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG103-2026"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG104"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG105-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG105-2026"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG201-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG202-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG203-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG204-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG301-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG302-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "ISEG304-2023"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "PCO91-1997"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SEI004-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SEI903"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SER004-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SES903-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOG409"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOG410-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOG512-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOG513-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP018"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP019-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP020-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP021"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP022-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP913-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP915"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP916-2019*"
+    },
+    {
+      "alumnoId": "ALU-002",
+      "cursoId": "SOP917-2019*"
+    }
+  ]
+}

@@ -14,6 +14,10 @@ export function createMemoryRepository(seed = {}) {
   };
 
   return {
+    async listarSalones() {
+      return [...state.salones.values()].sort((a, b) => a.id.localeCompare(b.id));
+    },
+
     async getSalon(id) {
       return state.salones.get(id) ?? null;
     },
@@ -42,6 +46,12 @@ export function createMemoryRepository(seed = {}) {
 
     async listarAsistenciasPorCurso(cursoId) {
       return state.asistencias.filter((a) => a.cursoId === cursoId);
+    },
+
+    async listarAsistenciasPorSalon(salonId, desde = null) {
+      return state.asistencias.filter(
+        (a) => a.salonId === salonId && (!desde || a.fechaHora >= desde),
+      );
     },
   };
 }

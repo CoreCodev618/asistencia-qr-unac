@@ -9,6 +9,12 @@ function noDb() {
 
 export function createPostgresRepository() {
   return {
+    async listarSalones() {
+      // SELECT id, nombre, latitud, longitud FROM salones ORDER BY id
+      getPool();
+      return noDb();
+    },
+
     async getSalon() {
       // SELECT id, nombre, latitud, longitud FROM salones WHERE id = $1
       getPool();
@@ -16,7 +22,7 @@ export function createPostgresRepository() {
     },
 
     async getCurso() {
-      // SELECT id, nombre FROM cursos WHERE id = $1
+      // SELECT id, nombre, codigo, plan, docente FROM cursos WHERE id = $1
       getPool();
       return noDb();
     },
@@ -25,7 +31,8 @@ export function createPostgresRepository() {
       // SELECT id, salon_id AS "salonId", curso_id AS "cursoId",
       //        dia_semana AS "diaSemana",
       //        to_char(hora_inicio,'HH24:MI') AS "horaInicio",
-      //        to_char(hora_fin,'HH24:MI') AS "horaFin"
+      //        to_char(hora_fin,'HH24:MI') AS "horaFin",
+      //        seccion, tipo
       //   FROM horarios WHERE salon_id = $1
       getPool();
       return noDb();
@@ -51,6 +58,14 @@ export function createPostgresRepository() {
 
     async listarAsistenciasPorCurso() {
       // SELECT * FROM asistencias WHERE curso_id = $1 ORDER BY fecha_hora
+      getPool();
+      return noDb();
+    },
+
+    async listarAsistenciasPorSalon() {
+      // SELECT * FROM asistencias
+      //  WHERE salon_id = $1 AND fecha_hora >= $2
+      //  ORDER BY fecha_hora DESC
       getPool();
       return noDb();
     },

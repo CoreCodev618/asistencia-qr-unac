@@ -17,7 +17,7 @@ export async function createApp() {
   const service = createAsistenciaService(repo);
 
   const app = express();
-  app.use(cors({ origin: env.corsOrigin }));
+  app.use(cors(env.corsOrigin === '*' ? { origin: true } : { origin: env.corsOrigin }));
   app.use(express.json());
 
   app.get('/api/health', (_req, res) => res.json({ ok: true, repo: env.repo }));

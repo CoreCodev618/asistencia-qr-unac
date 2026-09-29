@@ -11,7 +11,9 @@ function numero(nombre, defecto) {
 // No hay IDs ni datos de negocio aquí.
 export const env = {
   port: numero('PORT', 3000),
-  corsOrigin: process.env.CORS_ORIGIN ?? 'http://localhost:4200',
+  // '*' = refleja el origen pedido (útil en la red local; el front en dev
+  // además pasa por el proxy de Vite y no depende de CORS).
+  corsOrigin: process.env.CORS_ORIGIN ?? '*',
   repo: (process.env.REPO ?? 'memory').toLowerCase(),
   databaseUrl: process.env.DATABASE_URL ?? '',
   seedPath: process.env.SEED_PATH ?? '',

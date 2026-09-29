@@ -11,7 +11,10 @@ CREATE TABLE IF NOT EXISTS salones (
 
 CREATE TABLE IF NOT EXISTS cursos (
   id      TEXT PRIMARY KEY,
-  nombre  TEXT NOT NULL
+  nombre  TEXT NOT NULL,
+  codigo  TEXT,
+  plan    TEXT,
+  docente TEXT
 );
 
 CREATE TABLE IF NOT EXISTS horarios (
@@ -21,6 +24,8 @@ CREATE TABLE IF NOT EXISTS horarios (
   dia_semana  SMALLINT NOT NULL CHECK (dia_semana BETWEEN 0 AND 6),
   hora_inicio TIME NOT NULL,
   hora_fin    TIME NOT NULL,
+  seccion     TEXT,
+  tipo        TEXT,
   CHECK (hora_inicio < hora_fin)
 );
 
