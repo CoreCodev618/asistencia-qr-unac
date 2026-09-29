@@ -6,3 +6,6 @@ frontend/tmp/
 frontend/dist/
 frontend/node_modules/
 backend/node_modules/
+frontend/.eslintcache
+frontend/.github/
+frontend/tests/
