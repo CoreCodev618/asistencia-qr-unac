@@ -6,8 +6,6 @@ import { registerDestructor } from '@ember/destroyable';
 const INTERVALO_MS = 5000;
 const AVISO_MS = 8000;
 
-// Lista de asistencias de hoy del salón. Se refresca sola cada 5 s y
-// resalta lo que acaba de llegar ("actualizado").
 export default class AsistenciasVivoComponent extends Component {
   @service api;
 
@@ -116,7 +114,7 @@ export default class AsistenciasVivoComponent extends Component {
               <td>{{f.alumnoNombres}}</td>
               <td>
                 {{#if f.valida}}
-                  <span class="ok">válida ✔</span>
+                  <span class="ok">válida</span>
                 {{else}}
                   <span class="no">{{this.motivo f}}</span>
                 {{/if}}

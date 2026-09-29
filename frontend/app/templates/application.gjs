@@ -6,7 +6,7 @@ import { pageTitle } from 'ember-page-title';
   <header>
     <div class="marca">
       <strong>AsistenciaQR</strong>
-      <span class="muted">UNAC · Programación Web II</span>
+      <span class="muted">UNAC · FIIS</span>
     </div>
   </header>
 

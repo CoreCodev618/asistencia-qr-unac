@@ -7,8 +7,6 @@ import { on } from '@ember/modifier';
 const CLAVE_CODIGO = 'asistenciaqr.codigo';
 const DIAS = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];
 
-// Vista del alumno: se abre al escanear el QR (?salon=...).
-// No escribe el salón ni el curso: el salón viene del QR y el curso se elige.
 export default class AlumnoFormComponent extends Component {
   @service api;
 
@@ -108,7 +106,7 @@ export default class AlumnoFormComponent extends Component {
                   value={{c.id}}
                   selected={{this.mismo c.id this.cursoId}}
                 >
-                  {{#if c.enHorario}}[ahora] {{/if}}{{c.nombre}}
+                  {{#if c.enHorario}}[Ahora] {{/if}}{{c.nombre}}
                   —
                   {{this.resumenHorario c.horarios}}
                 </option>
@@ -140,7 +138,7 @@ export default class AlumnoFormComponent extends Component {
       {{#if this.resultado}}
         <section class="card">
           {{#if this.resultado.valida}}
-            <p class="resultado ok">Asistencia registrada ✔</p>
+            <p class="resultado ok">Asistencia registrada</p>
             <p>
               {{this.resultado.alumnoNombres}}
               ·

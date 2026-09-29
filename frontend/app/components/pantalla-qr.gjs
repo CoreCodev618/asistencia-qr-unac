@@ -8,7 +8,6 @@ import AsistenciasVivo from 'frontend/components/asistencias-vivo';
 
 const DIAS = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];
 
-// Pantalla del salón: selector de aula + QR fijo + asistencias en vivo.
 export default class PantallaQrComponent extends Component {
   @service api;
 
